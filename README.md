@@ -1,4 +1,4 @@
-markdown_content = """# 🗂️ Smart Directory Organizer
+# 🗂️ Smart Directory Organizer
 
 A lightweight, highly resilient Windows background daemon that intercepts internet downloads in real-time and allows you to instantly route them to custom categories. 
 
@@ -73,4 +73,3 @@ This project was built to solve the notoriously chaotic nature of file system ev
 1. Clone the repository: `git clone https://github.com/rhutshab/directory-organizer.git`
 2. Install dependencies: `pip install watchdog`
 3. Run the application: `python main.pyw` (using `.pyw` ensures it runs in the background without a persistent console window).
-"""
